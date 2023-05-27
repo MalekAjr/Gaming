@@ -42,3 +42,7 @@ This project is licensed under the MIT License. Feel free to modify and distribu
 
 # Contact
 If you have any questions or suggestions regarding the project, please feel free to contact us at malekajroud18@gmail.com. We appreciate your feedback and support!
+
+Pour exécuter le site:::
+python manage.py runserver
+http://127.0.0.1:8000/
